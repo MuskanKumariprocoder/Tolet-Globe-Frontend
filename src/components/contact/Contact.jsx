@@ -64,7 +64,8 @@ const Contact = () => {
           <p className=" mt-5 text-gray-400 ">
             We strive to provide you with the best <br />
             experience and the best platform to find your <br />
-            choice.
+            choice. 
+            Thank you.
           </p>
           <p className="mt-2 text-gray-400">
             Post us any queries and we’ll get back to you.
